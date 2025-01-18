@@ -10,5 +10,8 @@ Eager to contribute to innovative projects while continuously learning and takin
 - Programming: Python,C#,C++
 - Libraries & Frameworks: OpenCV, PyTorch, TensorFlow...
 
+### 🌐 Portfolio
+Check out my personal portfolio for projects
+[**My Portfolio**](https://btzel.github.io/)
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Btzel&show_icons=true&theme=radical)
