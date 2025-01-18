@@ -5,9 +5,8 @@ I'm Burak Tüzel, a passionate software developer. I specialize in creating inno
 🔍 **Interests:** Machine learning, robotics, and real-time image processing.  
 
 ### 🛠️ Skills
-- Programming: Python, C++
-- Libraries & Frameworks: OpenCV, PyTorch, TensorFlow
-- Tools: Git, Docker
+- Programming: Python,C#,C++
+- Libraries & Frameworks: OpenCV, PyTorch, TensorFlow...
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Btzel&show_icons=true&theme=radical)
