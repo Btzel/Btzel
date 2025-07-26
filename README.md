@@ -6,5 +6,5 @@ I'm Burak Tüzel, a passionate game developer specialized in Unity.
 
 ### 🛠️ Skills
 * Programming: C#,Python
-* Tools: Unity Engine, Version Control, Game Design Patterns
+* Tools: Unity Engine, Version Control
 
